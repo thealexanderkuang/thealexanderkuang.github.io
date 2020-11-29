@@ -1,7 +1,37 @@
 body {
-    background: #DDA0DD;
-    font: 18px Arial, sans-serif;
+    background: thistle;
+    font: 18px Courier, sans-serif;
 }
-h1 {
-    color: slateblue;
+
+h3 {
+	color: mediumvioletred;
+}
+
+p {
+	font: 14px Lucida Console;
+	color : indigo;
+	word-wrap: break-word;
+	width: 500px;
+	max-width: 60%;
+	margin : 0px auto;
+}
+
+div {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color:lightcoral;
+}
+
+a:visited {
+	color:lightcoral;
+}
+
+a:hover {
+	color:darkturquoise;
 }
