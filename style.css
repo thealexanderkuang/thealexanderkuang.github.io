@@ -1,6 +1,6 @@
 body {
     background: thistle;
-    font: 18px Courier, sans-serif;
+    font: 18px 'Trebuchet MS', sans-serif;
 }
 
 h3 {
@@ -8,7 +8,7 @@ h3 {
 }
 
 p {
-	font: 14px Lucida Console;
+	font: 14px Helvetica;
 	color : indigo;
 	word-wrap: break-word;
 	width: 500px;
@@ -35,4 +35,8 @@ a:visited {
 
 a:hover {
 	color:darkturquoise;
+}
+
+.beginning {
+	background-color: rgb(255, 122, 89);
 }
