@@ -43,6 +43,10 @@
 	color: #C27BA0;
 }
 
+.button_hover:focus {
+	color: #3FCDE4;
+}
+
 .link_hover {
 	text-decoration: none;
 	color: #3FCDE4;
