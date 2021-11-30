@@ -21,6 +21,13 @@
 	color: white;
 }
 
+.h3_body_class_updated {
+	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	font-weight: 300;
+	color: white;
+}
+
 .h4_class {
 	font-family: 'Poppins', sans-serif;
 	font-size: 25px;
@@ -108,6 +115,14 @@
 	
 }
 
+.updated_paragraph_format {
+	font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;	
+}
+
+
 .fade_in_fast {
 	animation: fade_in_f ease 1.5s;
 	animation-iteration-count: 1;
@@ -194,7 +209,7 @@
 
 .text {
 	font-family: 'Poppins', sans-serif;
-	font-size: 16px;
+	font-size: 15px;
 	color: white;
 	position: absolute;
 	text-align: center;
